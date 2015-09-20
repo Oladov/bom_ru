@@ -1,12 +1,11 @@
 "addon"
 {
-	"authors"					"Authors"
-	
-	"ability_is_full"			"The Ability is FULL"
-	"ability_max_level"			"Ability reached max level!"
-	"player_max_star"		"Player stars has reached max value!"
-	"select_score"			"SCORE SELECT"
-	"change_log"			"Welcome to the mirkwood!
+	"ability_is_full"					"The Ability is FULL"
+	"ability_max_level"					"Ability reached max level!"
+	"player_max_star"					"Player stars has reached max value!"
+	"authors"							"Authors:"
+	"select_score"						"SCORE SELECT"
+	"change_log"						"Welcome to the mirkwood!
 
 
 Changelog：
@@ -19,43 +18,36 @@ Changelog：
    If the target didn't has the aura ability and affecting with multiple auras, the earlier aura will take effect.
 "
 	
-	"str_to_agi"			"Cost 150 coins, convert 10 strength to 10 agility"
-	"str_to_int"			"Cost 150 coins, convert 10 strength to 10 intellect"
-	"agi_to_int"			"Cost 150 coins, convert 10 agility to 10 intellect"
-	"agi_to_str"			"Cost 150 coins, convert 10 agility to 10 strength"
-	"int_to_str"			"Cost 150 coins, convert 10 intellect to 10 strength"
-	"int_to_agi"			"Cost 150 coins, convert 10 intellect to 10 agility"
-	"ability_point"			"Gain 1 Ability Point"
-	"remove_ability"			"you can remove one of your ability after purchase"
-	"change_star"			"You can re-random your star count show on the top right corner.<br>each point of star can higher the attribute when you are leveling up. the max count of your stars is possible to increase when purchase."
-	"add_star"			"Cost 2250 coins to gain 1 star(also max stars)"
+	"str_to_agi"						"Cost 150 coins, convert 10 strength to 10 agility"
+	"str_to_int"						"Cost 150 coins, convert 10 strength to 10 intellect"
+	"agi_to_int"						"Cost 150 coins, convert 10 agility to 10 intellect"
+	"agi_to_str"						"Cost 150 coins, convert 10 agility to 10 strength"
+	"int_to_str"						"Cost 150 coins, convert 10 intellect to 10 strength"
+	"int_to_agi"						"Cost 150 coins, convert 10 intellect to 10 agility"
+	"ability_point"						"Gain 1 Ability Point"
+	"remove_ability"					"you can remove one of your ability after purchase"
+	"change_star"						"You can re-random your star count show on the top right corner.<br>each point of star can higher the attribute when you are leveling up. the max count of your stars is possible to increase when purchase."
+	"add_star"							"Cost 2250 coins to gain 1 star(also max stars)"
 
-	"text_star_title"		"Your stars means the attribute you will gain when level up"
-	"text_star_str"		"Strength Gain: {s:value}"
-	"text_star_agi"		"Agility Gain: {s:value}"
-	"text_star_int"		"Intellect Gain: {s:value}"
+	"text_star_title"					"Your stars means the attribute you will gain when level up"
+	"text_star_str"						"Strength Gain: {s:value}"
+	"text_star_agi"						"Agility Gain: {s:value}"
+	"text_star_int"						"Intellect Gain: {s:value}"
 
-	"hero_dead"		"Dead"
-	"gold_not_enough"	"Not Enough Gold!"
-	"strength_low"		"Not Enough Strength"
-	"agility_low"		"Not Enough Agility"
-	"intellect_low"		"Not Enough Intellect"
+	"hero_dead"							"Dead"
+	"gold_not_enough"					"Not Enough Gold!"
+	"strength_low"						"Not Enough Strength"
+	"agility_low"						"Not Enough Agility"
+	"intellect_low"						"Not Enough Intellect"
 	"finish_current_state_first"		"Please finish the latest remove first"
-	"have_no_ability"		"You have no ability!"
+	"have_no_ability"					"You have no ability!"
 
-	"DOTA_GoodGuys"   								"Team longxia"
-	"DOTA_BadGuys"    								"Team huangyu"
+	"DOTA_GoodGuys"   					"Team longxia"
+	"DOTA_BadGuys"    					"Team huangyu"
 	
-	"DOTA_Custom1"    								"Pink Dragon"
-	"DOTA_Custom2"    								"Orange Dog"
-	"DOTA_Custom3"    								"Blue Rooster"
-	"DOTA_Custom4"    								"Green Ram"
-	"DOTA_Custom5"    								"Brown Rat"
-	"DOTA_Custom6"    								"Cyan Boar"
-	"DOTA_Custom7"    								"Olive Snake"
-	"DOTA_Custom8"    								"Purple Horse"
+	"remove_tooltip"					"Left click on the ability to remove, right click on any ability to cancel"
 	
-	"remove_tooltip"		"Left click on the ability to remove, right click on any ability to cancel"
-	"resource_tooltip"		"Hawk Coins, 10 Hawk Coin = 100 Coin"
+	"resource_tooltip"					"Hawk Coins, 10 Hawk Coin = 100 Coin"
+	
 	"ability_cant_bigger_than_hero_level"		"Ability level can't bigger than hero level"
 }
