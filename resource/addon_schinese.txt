@@ -164,5 +164,6 @@
 		"DOTA_Chat_PlayerDeniedSelf"	"%s1自杀了！"
 		"DOTA_Chat_PlayerKilledGeneric"	"%s1被密林生物杀死了！"
 		"DOTA_Chat_PlayerKilledAssist"	"%s1被击杀！%s2金钱分摊给助攻者："
+		
 	}
 }
