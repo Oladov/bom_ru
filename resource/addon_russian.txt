@@ -158,11 +158,11 @@
 		"DOTA_Tooltip_ability_item_qiangjiguanghuan_Description"			"Используется для изучения/улучшения способности.\n\nУвеличивает дальнюю атаку союзников."
 		
 		"DOTA_Chat_PlayerKilled"	""
-		"DOTA_Chat_PlayerKilled_Mirkwood"	"%s1 just pwned %s2's head for %s3 gold!, %s2 got %s4 isolation."
-		"DOTA_Chat_PlayerDenied"	"%s1 just denied %s2!"
-		"DOTA_Chat_PlayerDeniedSelf"	"%s1 just committed suicide!"
-		"DOTA_Chat_PlayerKilledGeneric"	"%s1 was just killed by the mirkwood creatures!!"
-		"DOTA_Chat_PlayerKilledAssist"	"%s1 was just killed! %s2 gold is split among assists:"
+		"DOTA_Chat_PlayerKilled_Mirkwood"	"%s1 получает %s3 золота за голову %s2!, %s2 получает %s4 в качестве компенсации."
+		"DOTA_Chat_PlayerDenied"	"%s1 заденаил %s2!"
+		"DOTA_Chat_PlayerDeniedSelf"	"%s1 совершил самоубийство!"
+		"DOTA_Chat_PlayerKilledGeneric"	"%s1 был убит созданиями Лихолесья!"
+		"DOTA_Chat_PlayerKilledAssist"	"%s1 был убит! %s2 золота разделено между атакующими:"
 	
 	}
 }
