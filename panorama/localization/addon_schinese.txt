@@ -1,0 +1,56 @@
+"addon"
+{
+	"ability_is_full"		"技能已达到最大数量"
+	"ability_max_level"		"技能已达最大等级"
+		"player_max_star"		"星星数量已经达到上限！"
+		"authors"			"作者:"
+	"select_score"			"请选择总人头数(你只能选择一次)"
+	"change_log"			"欢迎来到幽暗密林！
+
+9月19日更新日志：
+ · 现在物品栏不会再被技能栏的背景遮挡了。
+ · 修正了游戏开局时金钱和星星面板不能显示正确数值的错误。
+ · 全新的物品和技能图标已经加入了游戏.
+ · 修正了强击光环所增加的效果和描述不符的问题。
+ · 修正了光环相互作用的机理
+       (现在多个英雄若拥有相同光环技能的，那么自身以自身的光环技能等级为准)
+ 
+ · 官方水友1群：215088761
+ · 官方论坛：http://www.dota2rpg.com/forum-136-1.html"
+
+	"str_to_agi"			"消耗150个金币将英雄十点力量转换为十点敏捷。"
+	"str_to_int"			"消耗150个金币将英雄十点力量转换为十点智力。"
+	"agi_to_int"			"消耗150个金币将英雄十点敏捷转换为十点智力。"
+	"agi_to_str"			"消耗150个金币将英雄十点敏捷转换为十点力量。"
+	"int_to_str"			"消耗150个金币将英雄十点智力转换为十点力量。"
+	"int_to_agi"			"消耗150个金币将英雄十点智力转换为十点敏捷。"
+	"ability_point"			"使用后可以获得一点技能点数。"
+	"remove_ability"		"使用后可以移除你的一个技能。"
+	"change_star"			"使用后将随机更换从1到你所能获取的最大星星数的星星。<br>每更换一次星星数上限将有可能提升。你当前的星星数在屏幕的右上方显示。"
+	"add_star"				"使用2250个金币换得一个星星。"
+
+	"text_star_title"		"星星数决定了你每次升级可以获得的属性"
+	"text_star_str"			"可获得力量：{s:value}"
+	"text_star_agi"			"可获得敏捷：{s:value}"
+	"text_star_int"			"可获得智力：{s:value}"
+
+	"hero_dead"		"死亡"
+	"gold_not_enough"	"金币不足"
+	"strength_low"		"力量不足"
+	"agility_low"		"敏捷不足"
+	"intellect_low"		"智力不足"
+	"finish_current_state_first"		"请先完成当前技能移除操作"
+	"have_no_ability"		"当前技能数为0"
+
+	"DOTA_GoodGuys"   								"龙虾队"
+	"DOTA_BadGuys"    								"黄鱼队"
+	
+	"remove_tooltip"		"左键点击删除，右键点击取消（金币一概不退）。"
+	
+	"resource_tooltip"		"白金币，1白金币=100金币"
+
+
+	"ability_cant_bigger_than_hero_level"		"技能等级不允许超过英雄等级。"
+}
+
+
