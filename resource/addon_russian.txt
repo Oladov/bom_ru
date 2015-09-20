@@ -1,9 +1,8 @@
 "lang"
 {
-	"Language"		"Russian"
+	"Language"		"SChinese"
 	"Tokens"
 	{		
-		//Don't need to change map name
 		"addon_game_name"			"Battle of Mirkwood"
 		
 		"ability_is_full"			"Изучено максимальное количество способностей"
@@ -133,7 +132,5 @@
 		"DOTA_Tooltip_ability_item_jiansuguanghuan_Description"			"Consumable: Use to Learn/Upgrade ability.\n\nУменьшает скорость перемещения ближайших противников."
 		"DOTA_Tooltip_ability_item_minglingguanghuan_Description"			"Consumable: Use to Learn/Upgrade ability.\n\nУвеличивает ближнюю атаку союзников."
 		"DOTA_Tooltip_ability_item_qiangjiguanghuan_Description"			"Consumable: Use to Learn/Upgrade ability.\n\nУвеличивает дальнюю атаку союзников."
-		
-
 	}
 }
