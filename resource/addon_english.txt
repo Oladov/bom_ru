@@ -144,6 +144,7 @@
 		"DOTA_Tooltip_ability_item_mofapifu_Description"			"Consumable: Use to Learn/Upgrade ability. Increases magical resistance."
 		"DOTA_Tooltip_ability_item_shuxingfujia_Description"			"Consumable: Use to Learn/Upgrade ability. Increases attribute bonus."
 		"DOTA_Tooltip_ability_item_gongjishengji_Description"			"Consumable: Use to Learn/Upgrade ability. Gives bonus attack damage"
+		
 		"DOTA_Tooltip_ability_item_fushiguanghuan_Description"			"Consumable: Use to Learn/Upgrade ability. Reduce the nearby enemies' armor."
 		"DOTA_Tooltip_ability_item_naijiuguanghuan_Description"			"Consumable: Use to Learn/Upgrade ability. Increases the attack speed and move speed of nearby allies."
 		"DOTA_Tooltip_ability_item_xixueguanghuan_Description"			"Consumable: Use to Learn/Upgrade ability. Gives you and nearby allies the ability to heal when attack landed."

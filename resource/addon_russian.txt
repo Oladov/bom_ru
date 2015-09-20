@@ -144,6 +144,7 @@
 		"DOTA_Tooltip_ability_item_mofapifu_Description"			"Используется для изучения/улучшения способности.\n\nУвеличивает магическое сопротивление."
 		"DOTA_Tooltip_ability_item_shuxingfujia_Description"			"Используется для изучения/улучшения способности.\n\nУвеличивает атрибуты героя."
 		"DOTA_Tooltip_ability_item_gongjishengji_Description"			"Используется для изучения/улучшения способности.\n\nДаёт дополнительный урон."
+		
 		"DOTA_Tooltip_ability_item_fushiguanghuan_Description"			"Используется для изучения/улучшения способности.\n\nУменьшает броню ближайших противников."
 		"DOTA_Tooltip_ability_item_naijiuguanghuan_Description"			"Используется для изучения/улучшения способности.\n\nУвеличивает скорость атаки и перемещения ближайших союзников."
 		"DOTA_Tooltip_ability_item_xixueguanghuan_Description"			"Используется для изучения/улучшения способности.\n\nПозволяет вам и вашим союзникам восстанавливать здоровье обычными атаками."
