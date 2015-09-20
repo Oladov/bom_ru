@@ -1,0 +1,50 @@
+"addon"
+{
+	"authors"						"Authors"
+	
+	"ability_is_full"				"Изучено максимальное количество способностей"
+	"ability_max_level"				"Способность достигла максимального уровня"
+	"player_max_star"				"Вы набрали максимальное количество звезд"
+
+	
+	"str_to_agi"					"Стоит 150 монет, превращает 10 силы в 10 ловкости"
+	"str_to_int"					"Стоит 150 монет, превращает 10 силы в 10 интеллекта"
+	"agi_to_int"					"Стоит 150 монет, превращает 10 ловкости в 10 интеллекта"
+	"agi_to_str"					"Стоит 150 монет, превращает 10 ловкости в 10 силы"
+	"int_to_str"					"Стоит 150 монет, превращает 10 интеллекта в 10 силы"
+	"int_to_agi"					"Стоит 150 монет, превращает 10 интеллекта в 10 ловкости"
+	"ability_point"					"Даёт 1 уровень способности"
+	"remove_ability"				"Вы можете удалить одну из своих способностей после покупки"
+	"change_star"					"Вы можете случайно перераспределить ваше количество звезд, отображаемое в правом верхнем углу.<br>Каждая звезда позволяет вам получать больше аттрибутов после повышения уровня героя. Вы можете увеличить максимальное количество звезд, купив их в магазине."
+	"add_star"						"Стоит 2250 монет и увеличевает текущее и максимальное количество звезд на 1"
+
+	"text_star_title"				"Ваше количество звезд равно сумме бонусных аттрибутов при повышении уровня героя"
+	"text_star_str"					"Бонус Силы: {s:value}"
+	"text_star_agi"					"Бонус Ловкости: {s:value}"
+	"text_star_int"					"Бонус Интеллекта: {s:value}"
+
+	"hero_dead"						"Мертв"
+	"lumber_not_enough"				"Недостаточно дерева"
+	"gold_not_enough"				"Недостаточно золота" // check addon_english.txt, wrong text here
+	"strength_low"					"Недостаточно силы"
+	"agility_low"					"Недостаточно ловкости"
+	"intellect_low"					"Недостаточно интеллекта"
+	"finish_current_state_first"	"Пожалуйста, зваершите прошлую операцию удаления, прежде чем начинать новую"
+	"have_no_ability"				"У вас нет способностей!"
+
+	"DOTA_GoodGuys"   				"Team longxia"		//what does it mean?
+	"DOTA_BadGuys"    				"Team huangyu"		//what does it mean?
+	
+	"DOTA_Custom1"    				"Pink Dragon"
+	"DOTA_Custom2"    				"Orange Dog"
+	"DOTA_Custom3"    				"Blue Rooster"
+	"DOTA_Custom4"    				"Green Ram"
+	"DOTA_Custom5"    				"Brown Rat"
+	"DOTA_Custom6"    				"Cyan Boar"
+	"DOTA_Custom7"    				"Olive Snake"
+	"DOTA_Custom8"    				"Purple Horse"
+	
+	"remove_tooltip"				"Левый клик по способности для удаления. Правый клик по способности для отмены."
+	"resource_tooltip"				"Соколиные монеты, 10 СМ = 100 монет"
+	"ability_cant_bigger_than_hero_level"		"Уровень способности не может превышать уровень героя"
+}
