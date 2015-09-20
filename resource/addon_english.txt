@@ -111,7 +111,7 @@
 		"DOTA_Tooltip_ability_fushiguanghuan"											"Corrosion Aura"
 		"DOTA_Tooltip_ability_fushiguanghuan_Description"								"<font size='10'color='#FADC32'>Reduce the nearby enemies' armor.</font> Radius: <font size='10'color='#576AFF'>900</font>\nArmor Reduce: <font size='10'color='#576AFF'>Ability Level*2</font>"
 		"DOTA_Tooltip_ability_naijiuguanghuan"											"Endurance Aura"
-		"DOTA_Tooltip_ability_naijiuguanghuan_Description"								"<font size='10'color='#FADC32'>Increases the attack speed and move speed of nearby allies.</font> Radius: <font size='10'color='#576AFF'>900</font>\nMovespeed Bonus Percentage: <font size='10'color='#576AFF'>Ability Level*4</font>\n攻击速度提升 Percentage: <font size='10'color='#576AFF'>Ability Level*5</font>"
+		"DOTA_Tooltip_ability_naijiuguanghuan_Description"								"<font size='10'color='#FADC32'>Increases the attack speed and move speed of nearby allies.</font> Radius: <font size='10'color='#576AFF'>900</font>\nMovespeed Bonus Percentage: <font size='10'color='#576AFF'>Ability Level*4</font>\nAttackspeed Bonus Percentage: <font size='10'color='#576AFF'>Ability Level*5</font>"
 		"DOTA_Tooltip_ability_xixueguanghuan"											"LifeSteal Aura"
 		"DOTA_Tooltip_ability_xixueguanghuan_Description"								"<font size='10'color='#FADC32'>Gives you and nearby allies the ability to heal when attack landed.</font> Radius: <font size='10'color='#576AFF'>900</font>\nLifeSteal Percentage: <font size='10'color='#576AFF'>5+Ability Level*2</font>"
 		"DOTA_Tooltip_ability_zhuanzhuguanghuan"										"Devotion Aura"
