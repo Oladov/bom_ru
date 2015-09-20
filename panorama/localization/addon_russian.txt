@@ -37,7 +37,7 @@ Changelog：
 	"text_star_int"					"Бонус Интеллекта: {s:value}"
 
 	"hero_dead"						"Мертв"
-	"gold_not_enough"				"Недостаточно золота" // check addon_english.txt, wrong text here
+	"gold_not_enough"				"Недостаточно золота"
 	"strength_low"					"Недостаточно силы"
 	"agility_low"					"Недостаточно ловкости"
 	"intellect_low"					"Недостаточно интеллекта"
