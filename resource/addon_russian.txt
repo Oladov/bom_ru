@@ -126,7 +126,7 @@
 		"DOTA_Tooltip_ability_jingjiguanghuan_Description"								"<font size='10'color='#FADC32'>Даёт вам и ближайшим союзникам способность возвращать часть урона.</font>\n\nРадиус: <font size='10'color='#576AFF'>900</font>\nВозврат урона %: <font size='10'color='#576AFF'>5+Уровень способности*2.5</font>"
 		"DOTA_Tooltip_ability_xieeguanghuan"											"Devil Aura"
 		"DOTA_Tooltip_ability_xieeguanghuan_Description"								"<font size='10'color='#FADC32'>Даёт дополнительную скорость перемещения и восстановление здоровья вам и ближайшим союзникам.</font>\n\nРадиус: <font size='10'color='#576AFF'>900</font>\nУвеличение регенерации: <font size='10'color='#576AFF'>Уровень способности*1</font>\nБонус скорости перемещения %: <font size='10'color='#576AFF'>Уровень способности*3</font>"
-		"DOTA_Tooltip_ability_jiansuguanghuan"											"减速光环"
+		"DOTA_Tooltip_ability_jiansuguanghuan"											"Entropic Aura"
 		"DOTA_Tooltip_ability_jiansuguanghuan_Description"								"<font size='10'color='#FADC32'>Уменьшает скорость перемещения ближайших противников.</font>\n\nРадиус: <font size='10'color='#576AFF'>900</font>\nУменьшение скорости: <font size='10'color='#576AFF'>5+Уровень способности*2</font>"
 		"DOTA_Tooltip_ability_minglingguanghuan"										"Command Aura"
 		"DOTA_Tooltip_ability_minglingguanghuan_Description"							"<font size='10'color='#FADC32'>Увеличивает ближнюю атаку союзников.</font>\n\nРадиус: <font size='10'color='#576AFF'>900</font>\nБонус атаки %: <font size='10'color='#576AFF'>Уровень способности*5</font>"
