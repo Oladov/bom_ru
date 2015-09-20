@@ -79,7 +79,7 @@
 		"DOTA_Tooltip_ability_mofapifu"													"(Invalid)Magical Skin"
 		"DOTA_Tooltip_ability_mofapifu_Description"										"<font size='10'color='#FADC32'>Увеличивает магическое сопротивление."
 		"DOTA_Tooltip_ability_shuxingfujia"												"Attribute Bonus"
-		"DOTA_Tooltip_ability_shuxingfujia_Description"									"<font size='10'color='#FADC32'>Увеличивает атрибуты героя.</font>\n\nБонус силы:<font size='10'color='#576AFF'>Уровень способности*3</font>\nnБонус ловкости:<font size='10'color='#576AFF'>Уровень способности*3</font>\nnБонус интеллекта:<font size='10'color='#576AFF'>Уровень способности*3</font>"
+		"DOTA_Tooltip_ability_shuxingfujia_Description"									"<font size='10'color='#FADC32'>Увеличивает атрибуты героя.</font>\n\nБонус силы:<font size='10'color='#576AFF'>Уровень способности*3</font>\nБонус ловкости:<font size='10'color='#576AFF'>Уровень способности*3</font>\nБонус интеллекта:<font size='10'color='#576AFF'>Уровень способности*3</font>"
 		"DOTA_Tooltip_ability_gongjishengji"											"Damage Upgrade"
 		"DOTA_Tooltip_ability_gongjishengji_Description"								"<font size='10'color='#FADC32'>Даёт дополнительный урон.</font>\n\nДополнительный урон:<font size='10'color='#576AFF'>Уровень способности*5</font>"
 		"DOTA_Tooltip_ability_fushiguanghuan"											"Corrosion Aura"
