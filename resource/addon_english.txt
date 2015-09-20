@@ -126,7 +126,7 @@
 		"DOTA_Tooltip_ability_jingjiguanghuan_Description"								"<font size='10'color='#FADC32'>Gives you and nearby allies the ability to reflect damage when attacked.</font> Radius: <font size='10'color='#576AFF'>900</font>\nDamge reflect percentage: <font size='10'color='#576AFF'>5+Ability Level*2.5</font>"
 		"DOTA_Tooltip_ability_xieeguanghuan"											"Devil Aura"
 		"DOTA_Tooltip_ability_xieeguanghuan_Description"								"<font size='10'color='#FADC32'>Gives you and nearby allies health regen and move speed.</font> Radius: <font size='10'color='#576AFF'>900</font>\nLife regen: <font size='10'color='#576AFF'>Ability Level*1</font>\nMovespeed Bonus Percentage: <font size='10'color='#576AFF'>Ability Level*3</font>"
-		"DOTA_Tooltip_ability_jiansuguanghuan"											"减速光环"
+		"DOTA_Tooltip_ability_jiansuguanghuan"											"Entropic Aura"
 		"DOTA_Tooltip_ability_jiansuguanghuan_Description"								"<font size='10'color='#FADC32'>Decrease the move speed of nearby enemies.</font> Radius: <font size='10'color='#576AFF'>900</font>\nMove speed decrease: <font size='10'color='#576AFF'>5+Ability Level*2</font>"
 		"DOTA_Tooltip_ability_minglingguanghuan"										"Command Aura"
 		"DOTA_Tooltip_ability_minglingguanghuan_Description"							"<font size='10'color='#FADC32'>Increases the attack damage of nearby melee units.</font> Radius: <font size='10'color='#576AFF'>900</font>\nAttack Damage Bonus Percentage: <font size='10'color='#576AFF'>Ability Level*5</font>"
