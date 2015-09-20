@@ -5,7 +5,6 @@
 	"ability_is_full"			"Изучено максимальное количество способностей"
 	"ability_max_level"			"Способность достигла максимального уровня"
 	"player_max_star"		"Вы набрали максимальное количество звезд"
-	
 	"select_score"			"SCORE SELECT"
 	"change_log"			"Welcome to the mirkwood!
 

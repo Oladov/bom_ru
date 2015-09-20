@@ -12,8 +12,6 @@
 		"spawn_warning"				"Призыв сотен существ на одной карте может сать причиной небольшой задержки, мы сожалеем об этом."
 		"spawn_ending"				"Призыв существ закончен!"
 
-		//Don't need to translate names of abilities. Any translated titels looks very funny, not serious and even shitty.
-		//We should translate descriptions/warnings/hints only
 		"DOTA_Tooltip_ability_item_zhongji"		"Bash"								//Оглушение
 		"DOTA_Tooltip_ability_item_fensui"		"Smash"								//Размах
 		"DOTA_Tooltip_ability_item_shanbi"		"Evasion"							//Увертка
