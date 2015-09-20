@@ -3,7 +3,7 @@
 	"ability_is_full"					"The Ability is FULL"
 	"ability_max_level"					"Ability reached max level!"
 	"player_max_star"					"Player stars has reached max value!"
-	"authors"							"Authors:"
+	"authors"							"Authors: "
 	"select_score"						"SCORE SELECT"
 	"change_log"						"Welcome to the mirkwood!
 
