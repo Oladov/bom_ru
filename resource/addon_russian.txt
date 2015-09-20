@@ -1,6 +1,6 @@
 "lang"
 {
-	"Language"		"SChinese"
+	"Language"		"Russian"
 	"Tokens"
 	{		
 		"addon_game_name"			"Battle of Mirkwood"
