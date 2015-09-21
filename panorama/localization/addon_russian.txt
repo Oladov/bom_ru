@@ -7,16 +7,16 @@
 	"select_score"						"Выбор количества убийств для победы"
 	"change_log"						"Добро пожаловать в Лихолесье!
 
-
-Changelog：
- · The inventory will no longer blocked by the ability background.
- · Fix an issue that sometimes the resource panel and star panel shows incorrect value.
- · All new items and spell icons added to game.
- · Fixed the value of attack damage added from Trueshot Aura didn't match the description.
- · Fixed the mechanics of multiple aura affecting same target
-   If the target also has the aura ability, the value is defined by the target aura level
-   If the target didn't has the aura ability and affecting with multiple auras, the earlier aura will take effect.
+Список изменений：
+ · Инвентарь больше не блокируется фоновым изображением окна способностей.
+ · Исправлена проблема, из-за которой количество звезд и ресурсов иногда отображалось неправильно.
+ · Все иконки бредметов и способностей обновлены.
+ · Исправлена проблема, из-за которой количество урона от Trueshot Aura не соответствовало описанию.
+ · Исправлена механика налржения нескольких аур на одну цель.
+ · Если у героя, на которого действует аура, уже есть своя такая же аура, будет работать уровень ауры самого героя.
+ · Если у героя нет какой-то ауры, но на него действуют 2 одинаковые ауры разного уровня, будет выбрана та, которая начала действовать раньше.
 "
+	
 	
 	"str_to_agi"						"Стоит 150 монет, превращает 10 силы в 10 ловкости"
 	"str_to_int"						"Стоит 150 монет, превращает 10 силы в 10 интеллекта"
